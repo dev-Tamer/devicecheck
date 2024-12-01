@@ -10,7 +10,8 @@
     native gpci(playerid, serial[], len);
 #endif
 
-#define PC_SERIAL "EEACC9DA0D4E9E5EEFEF55C890489095090DD8AF" //CI serial de PC, ten encuenta que no todos los seriales de PC son iguales.
+#define PC_SERIAL "EEACC9DA0D4E9E5EEFEF55C890489095090DD8AF" //CI serial de PC, ten encuenta que no todos los seriales de PC son iguales. (No recomendable para detectar si es de PC)
+
 #define MOBILE_CI_SERIAL "ED40ED0E8089CC44C08EE9580F4C8C44EE8EE990" //CI serial de android...
 
 #define PLAYER_PC 1
