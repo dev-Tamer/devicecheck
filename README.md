@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Un include para comprobar si el usuario es de android o PC, obteniendo su GPCI serial del cliente SA-MP.</p>
+<p align="left">Un include para poder saber si un jugador es de PC o Android. tener en cuenta que no es 100% confiable en PC los seriales pueden ser distintos, en android en el SA-MP launcher por lo menos el serial siempre será igual al menos que alguien le haga un fake serial, include recomendable para fixear errores del cliente Android</p>
 
 ###
 
